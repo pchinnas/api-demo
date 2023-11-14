@@ -1,0 +1,14 @@
+{
+  "name": "api_prj",
+  "version": "1.0.0",
+  "description": "Assignment 1 API Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "2022mt93257",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
